@@ -1,0 +1,10 @@
+{
+    "heroTitle":"Traduis le.",
+    "blogTitle":"Internationalisation avec React et React-intl",
+    "selectLang":"Choisir la langue",
+    "author":"Auteur",
+    "articleTitle":"Changez de langue et voyez la magie opérer",
+    "articlePara1":"Les logiciels internationalisés prennent en charge les langues et les coutumes culturelles des gens du monde entier. Le Web atteint toutes les régions du monde. Les applications Web internationalisées offrent une excellente expérience utilisateur aux utilisateurs du monde entier. Un logiciel localisé s'adapte à une langue et une culture spécifiques en traduisant le texte dans la langue de l'utilisateur et en formatant les données conformément aux attentes de l'utilisateur. Une application est généralement localisée pour un petit ensemble de paramètres régionaux.",
+    "articleTitle2":"Locales: langue et région",
+    "articlePara2":"Un lieu fait référence aux attentes linguistiques et culturelles d'une région. Il est représenté à l'aide d'un code local défini dans UTS LDML. Ce code est composé de plusieurs parties séparées par des tirets (-). La première partie est une courte chaîne représentant la langue. La deuxième partie, facultative, est une courte chaîne représentant la région. De plus, diverses extensions et variantes peuvent être spécifiées"
+}

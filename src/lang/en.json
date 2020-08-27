@@ -1,0 +1,10 @@
+{
+    "heroTitle":"Translate It.",
+    "blogTitle":"Internationalization with React and React-intl",
+    "selectLang":"Select Language",
+    "author":"Author",
+    "articleTitle":"Change the language and see the magic happen",
+    "articlePara1":"Internationalized software supports the languages and cultural customs of people throughout the world. The Web reaches all parts of the world. Internationalized web apps provide a great user experience for people everywhere. Localized software adapts to a specific language and culture by translating text into the user's language and formatting data in accordance with the user's expectations. An app is typically localized for a small set of locales.",
+    "articleTitle2":"Locales: Language and Region",
+    "articlePara2":"A locale refers to the lingual and cultural expectations for a region. It is represented using a locale code defined in UTS LDML. This code is comprised of several parts separated by hyphens (-). The first part is a short string representing the language. The second, optional, part is a short string representing the region. Additionally, various extensions and variants can be specified"
+}
